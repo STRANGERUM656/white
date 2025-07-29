@@ -6,11 +6,15 @@ A simple Streamlit app template for you to modify!
 
 ### How to run it on your own machine
 
-1. $ cd white
+1. Open file from os
    ```
-2. ls
-
-3. Run the app
+   $ cd white
+    ```
+2. search
+    ```
+    $ls
+    ```
+4. Run the app
 
    ```
    $ streamlit run streamlit_app.py --server.enableCORS false --server.enableXsrfProtection false
